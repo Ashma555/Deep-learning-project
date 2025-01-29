@@ -5,7 +5,7 @@ from Xray.constant.training_pipeline import *
 from Xray.entity.artifacts_entity import DataIngestionArtifact
 from Xray.entity.config_entity import DataIngestionConfig
 from Xray.exception import XRayException
-from Xray.logger import Xraylogger
+from Xray.logger import logging
 
 
 
